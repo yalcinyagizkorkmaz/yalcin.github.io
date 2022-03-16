@@ -176,7 +176,7 @@ button:hover{
 }
 .contact{
     padding-top: 150px;
-    margin-top: 200px;
+    margin-top: 60px;
     grid-template-columns: repeat(4,1fr);
     grid-template-rows: repeat(4,1fr);
     display: inline-flex;
@@ -267,7 +267,6 @@ button:hover{
 .parçalı{
     display: block;
 }
-
 
 
 
